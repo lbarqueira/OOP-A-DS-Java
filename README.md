@@ -12,4 +12,8 @@ The most important algorithms and data structures in use today.
 
 - [Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
 
+
+
+[Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
+
 [Foundations of Programming: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2?trk=lynda_redirect_learning)
