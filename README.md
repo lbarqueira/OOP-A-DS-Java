@@ -20,3 +20,9 @@ __(Java code)__
 The most important algorithms and data structures in use today.
 
 - [Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
+
+### Object-Oriented Programming - IST
+
+-   [Wiki do Prof. David Matos](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Programa%C3%A7%C3%A3o_com_Objectos)
+-   [MermaidJS Live Editor](https://mermaid.live/)  - Editor de gráficos UML
+-   [Umbrello UML Modeller](https://umbrello.kde.org/)  - Editor de gráficos UML
