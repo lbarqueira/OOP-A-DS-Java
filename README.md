@@ -26,3 +26,18 @@ The most important algorithms and data structures in use today.
 -   [Wiki do Prof. David Matos](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Programa%C3%A7%C3%A3o_com_Objectos)
 -   [MermaidJS Live Editor](https://mermaid.live/)  - Editor de gráficos UML
 -   [Umbrello UML Modeller](https://umbrello.kde.org/)  - Editor de gráficos UML
+
+### Bibliographic References - IST
+
+#### Recommended Bibliography
+
+-   **Thinking in Java:** Bruce Eckel  2005 (Outubro)  Prentice Hall, New Jersey, ISBN 0131872486 (4ª Ed.)
+-   **Head First Design Patterns:** Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates  2004 (Outubro)  O'Reilly. ISBN 0596007124
+
+#### Optional Bibliography
+
+-   **Design Patterns: Elements of Reusable Object-Oriented Software:** Erich Gamma, Richard Helm, Ralph Johnson e John 1995  Addison Wesley Professional, ISBN 0201633612
+-   **Head First Java:** Kathy Sierra, Bert Bates  2005 (Fevereiro)  O'Reilly. ISBN 0596009208 (2ª Ed.)
+-   **The Unified Modeling Language User Guide :** Grady Booch, James Rumbaugh, Ivar Jacobson  2005  Addison Wesley Professional (2ª Ed.)
+-   **JAVA 8 - POO + Construções Funcionais:** Fernando Mário Junqueira Martins  2017  FCA. ISBN 978-972-2017 722-838-6
+-   **C++ Primer :** Stanley B. Lippman, Josée Lajoie, Barbara E. Moo  2005  ISBN-10: 0-201-72148-1, ISBN-13: 978-0-201-72148-5, Addison-Wesley Professional (4ª Ed.)
