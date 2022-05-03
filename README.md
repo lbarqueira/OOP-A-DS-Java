@@ -1,7 +1,7 @@
-# Java Learning Material
-Learning material regarding Java (2021 - 2022), Algorithms and Data Structures, Design Patterns;
+# Java Learning Material - OOP, Algorithms and Data Structures
+Learning material regarding OOP, and Algorithms & Data Structures (Java language);
 
-[The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+[The Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/index.html)
 The Java Tutorials are practical guides for programmers who want to use the Java programming language to create applications. They include hundreds of complete, working examples, and dozens of lessons. Groups of related lessons are organized into "trails".
 
 [University of Helsinki’s open online course (MOOC) on JAVA programming](https://java-programming.mooc.fi/)  
