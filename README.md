@@ -1,4 +1,4 @@
-# Java Learning Material - OOP, Algorithms and Data Structures
+# OOP (Object-Oriented Programming , ADS (Algorithms and Data Structures) - Java Language
 Learning material regarding OOP, and Algorithms & Data Structures (Java language);
 
 [The Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/index.html)
