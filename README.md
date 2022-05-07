@@ -1,5 +1,5 @@
 # OOP (Object-Oriented Programming , ADS (Algorithms and Data Structures) - Java Language
-Learning material regarding OOP, and Algorithms & Data Structures (Java language);
+Learning material regarding OOP, Algorithms & Data Structures (Java language);
 
 [The Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/index.html)
 The Java Tutorials are practical guides for programmers who want to use the Java programming language to create applications. They include hundreds of complete, working examples, and dozens of lessons. Groups of related lessons are organized into "trails".
