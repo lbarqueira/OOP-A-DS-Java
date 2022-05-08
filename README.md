@@ -1,14 +1,6 @@
 # OOP (Object-Oriented Programming , ADS (Algorithms and Data Structures) - Java Language
 Learning material regarding OOP, Algorithms & Data Structures (Java language);
 
-[The Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/index.html)
-The Java Tutorials are practical guides for programmers who want to use the Java programming language to create applications. They include hundreds of complete, working examples, and dozens of lessons. Groups of related lessons are organized into "trails".
-
-
-
-[University of Helsinki’s open online course (MOOC) on JAVA programming](https://java-programming.mooc.fi/)  
-The course is split up into two individual courses: Java Programming I and Java Programming II.
-
 
 [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
 All good software starts with a great design. Object-oriented design helps developers plan applications before they write a single line of code, and break down ideas into reusable and maintainable components. This course focuses on the foundational concepts, teaching them in a fun, interactive way to help you quickly develop your skills. Tag team Olivia and Barron Stone introduce you to the concepts and terms—objects, classes, abstraction, inheritance, and more—that you need to get started. They then show how to take the requirements for an app, identify use cases, and map out classes using Universal Modeling Language (UML). The final design can then be translated into code using one of the many popular object-oriented programming languages, such as Java, C#, Ruby, or Python. __DONE: 6th May 2022__
